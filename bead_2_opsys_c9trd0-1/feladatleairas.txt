@@ -4,5 +4,4 @@ Az Operációs Törzs (szülő) 2 oltóbusszal (gyerek folyamat) rendelkezik. A 
 
 Másnap reggel hasonlóan indul a nap, az időközben jelentkezettek is bekerülnek az oltásra várók közé, majd a Törzs szükség szerint (ha van legalább 5 olyan jelentkező, akik nincsenek "OLTVA"), indítja az oltóbuszokat.
 
-Készítsen C nyelvű programot ami ezt a feladatot megoldja, támaszkodva a meglévő adatokra(első beadandó). A megoldásnak vagy az opsys.inf.elte.hu kiszolgálón, vagy egy hozzá hasonló rendszeren kell futnia. A megoldást a beadási határidőt követő héten be kell mutatni a gyakorlatvezetőnek.
 

@@ -4,5 +4,4 @@ A "Vakcin-áció" keretében kérni kell a hatóságoktól az oltást. Ezt a meg
 
 A jelentkezői adatokat fájlban tároljuk, az adatfelvételen túl legyen lehetőségünk az adatokon módosítani, törölni vagy teljes listát készíteni.
 
-Készítsen C nyelvű programot ami  ezt a feladatot megoldja, a megoldásnak vagy az opsys.inf.elte.hu kiszolgálón, vagy egy hozzá hasonló rendszeren kell futnia. A megoldást a beadási határidőt követő héten be kell mutatni a gyakorlatvezetőnek.
 
